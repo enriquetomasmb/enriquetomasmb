@@ -14,11 +14,11 @@ jobs:
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://enriquetomasmb.com/feed.xml
-          count: 6 # default 5
+          count: 2 # default 5
       - name: Commit file changes
         run: |
-            git config --global user.name 'enriquetomasmb'
-            git config --global user.email 'enriquetomasmb@gmail.com'
+            git config --global user.name 'YOUR_USERNAME'
+            git config --global user.email 'YOUR_GMAIL'
             git add .
             git diff --quiet --cached || git commit -m "Update README"    
       - name: Push changes
