@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## My Blog
 <!-- BLOG-POST-LIST:START -->
+- [COnVIDa - Publicación y medios de comunicación](https://enriquetomasmb.com/blog/convida-medios)
+- [COnVIDa - Monitorización de datos de COVID19 en España](https://enriquetomasmb.com/blog/convida-monitorizacion-covid19)
 <!-- BLOG-POST-LIST:END -->
