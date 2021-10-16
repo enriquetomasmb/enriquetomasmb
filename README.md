@@ -23,6 +23,7 @@
 
 ## Mis entradas del blog
 <!-- BLOG-POST-LIST:START -->
+- [VALKYRIES](https://enriquetomasmb.com/blog/valkyries)
 - [COnVIDa - Publicación y medios de comunicación](https://enriquetomasmb.com/blog/convida-medios)
 - [COnVIDa - Monitorización de datos de COVID19 en España](https://enriquetomasmb.com/blog/convida-monitorizacion-covid19)
 <!-- BLOG-POST-LIST:END -->
