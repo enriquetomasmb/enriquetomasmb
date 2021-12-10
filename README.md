@@ -24,8 +24,10 @@
 ## My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [VALKYRIES](https://enriquetomasmb.com/blog/valkyries)
-- [COnVIDa - Publicación y medios de comunicación](https://enriquetomasmb.com/blog/convida-medios)
-- [COnVIDa - Monitorización de datos de COVID19 en España](https://enriquetomasmb.com/blog/convida-monitorizacion-covid19)
+- [VALKYRIES](https://enriquetomasmb.com/es/blog/valkyries)
+- [COnVIDa - Publication and communication media](https://enriquetomasmb.com/blog/convida-media)
+- [COnVIDa - Publicación y medios de comunicación](https://enriquetomasmb.com/es/blog/convida-medios)
+- [COnVIDa - COVID19 data monitoring in Spain](https://enriquetomasmb.com/blog/convida-monitorization-covid19)
 <!-- BLOG-POST-LIST:END -->
 
 More in [https://enriquetomasmb.com/blog/](https://enriquetomasmb.com/blog/)
