@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquetomasmb&label=Visitas&color=0e75b6&style=flat" alt="enriquetomasmb" /> </p>
 
-[![Portfolio Badge](https://img.shields.io/badge/enriquetomasmb.com-web-blue?style=flat&link=enriquetomasmb.com/)](enriquetomasmb.com/) [![Gmail Badge](https://img.shields.io/badge/-enriquetomasmb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:enriquetomasmb@gmail.com)](mailto:enriquetomasmb@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/enrique-tomas/)](https://www.linkedin.com/in/enrique-tomas/)
+[![Portfolio Badge](https://img.shields.io/badge/enriquetomasmb.com-web-blue?style=flat&link=enriquetomasmb.com/)](enriquetomasmb.com/) [![Gmail Badge](https://img.shields.io/badge/-enriquetomas@um.es-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:enriquetomas@um.es)](mailto:enriquetomasmb@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/enrique-tomas/)](https://www.linkedin.com/in/enrique-tomas/)
 
 - 🌱 Nowadays, I am developing some projects related to **IA, cybersecurity and Brain-Computer Interfaces**
 
