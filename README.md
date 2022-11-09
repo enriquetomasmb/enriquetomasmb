@@ -7,13 +7,13 @@
 
 - 🌱 Nowadays, I am developing some projects related to **IA, cybersecurity and Brain-Computer Interfaces**
 
-- 👨‍💻 You can find my portfolio at [https://enriquetomasmb.com/about/](https://enriquetomasmb.com/about/)
+- 👨‍💻 You can find my portfolio at [https://enriquetomasmb.com/](https://enriquetomasmb.com/)
 
 - 📝 I love to share my knowledge, some researches are on [https://enriquetomasmb.com/publications/](https://enriquetomasmb.com/publications/)
 
-- 📄 I have a blog where I write about my experiences and studies [https://enriquetomasmb.com/blog/](https://enriquetomasmb.com/blog/)
+- 📄 Also, I am working on several projects [https://enriquetomasmb.com/projects/](https://enriquetomasmb.com/projects/)
 
-- 📫 Do not hesitate to contact me **[https://enriquetomasmb.com/contacto/](https://enriquetomasmb.com/contact/)**
+- 📫 Do not hesitate to contact me **[https://enriquetomasmb.com/contact/](https://enriquetomasmb.com/contact/)**
 
 
 ## Programming languages and tools
