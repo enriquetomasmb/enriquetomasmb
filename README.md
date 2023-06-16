@@ -11,7 +11,7 @@
 
 - 📝 I love to share my knowledge, some researches are on [https://enriquetomasmb.com/publications/](https://enriquetomasmb.com/publications/)
 
-- 📄 Also, I am working on several projects [https://enriquetomasmb.com/projects/](https://enriquetomasmb.com/projects/)
+- 📄 Also, I am working on several projects [https://enriquetomasmb.com/research/](https://enriquetomasmb.com/research/)
 
 - 📫 Do not hesitate to contact me **[https://enriquetomasmb.com/contact/](https://enriquetomasmb.com/contact/)**
 
